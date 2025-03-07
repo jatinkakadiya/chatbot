@@ -1,0 +1,32 @@
+[
+  {
+    "message": "What are the prices of your products?",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "timestamp": "2025-03-06T09:36:51.302Z"
+  },
+  {
+    "message": "What is your return policy?",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "timestamp": "2025-03-06T09:37:26.336Z"
+  },
+  {
+    "message": "What are your product prices?",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "timestamp": "2025-03-06T09:41:24.784Z"
+  },
+  {
+    "message": "Description of product 1",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "timestamp": "2025-03-06T09:41:57.023Z"
+  },
+  {
+    "message": "Description ",
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "timestamp": "2025-03-06T09:42:12.307Z"
+  }
+]

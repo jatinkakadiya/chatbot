@@ -1,0 +1,38 @@
+{
+  "companyInfo": {
+    "name": "Bitbeast Private Limited",
+    "description": "Bitbeast Private Limited is a software company specializing in innovative technology solutions.",
+    "location": "Ahmedabad, Gujarat, India",
+    "services": [
+      "Software Development",
+      "AI Solutions",
+      "Cloud Computing",
+      "Cybersecurity"
+    ],
+    "hiringJOb": [
+      "react js",
+      "node js js",
+      "paytho"
+    ],
+    "mission": "To innovate and provide top-notch technology solutions for businesses worldwide.",
+    "contact": {
+      "email": "contact@bitbeast.in",
+      "phone": "+91-7201000140"
+    },
+    "founders": [
+      {
+        "name": "Hiteshbhai Balubhai Bhimani",
+        "position": "Director"
+      },
+      {
+        "name": "Vishvajeetsinh Pruthvisinh Chauhan",
+        "position": "Director"
+      }
+    ],
+    "established": "March 22, 2022",
+    "socialMedia": {
+      "linkedin": "https://in.linkedin.com/company/bitbeast",
+      "facebook": "https://www.facebook.com/bitbeast.in/"
+    }
+  }
+}
